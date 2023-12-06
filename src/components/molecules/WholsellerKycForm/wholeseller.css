@@ -1,0 +1,9 @@
+.MuiGrid-spacing-xs-2 {
+    margin-top: 16px !important; 
+    padding-top: 0 !important;
+}
+
+.MuiGrid-spacing-xs-2 {
+    margin-left: 16px !important;
+    padding-left: 0 !important;
+}
